@@ -1,0 +1,244 @@
+body {
+background:url('images/site background.jpg');
+
+}
+#menu {
+margin-left:0px;
+
+
+}
+#menu ul li a {
+text-decoration:none;
+text-style:none;
+font-family:arail;
+width:150px;
+height:25px;
+box-shadow: 6px 6px 6px grey inset;
+border-radius: 5px 5px 5px 5px;
+font-weight: bold;
+font-family:Centaur;
+font-size:20px;
+}
+
+#menu li {  
+    display: inline;  
+    list-style: none;  
+
+} 
+
+		#menu li {
+                                          
+			background: #012B55;
+			list-style: none ;
+			color: #fff ;
+			display: inline ;
+			margin-right: 1px ;
+			}
+
+		#menu li a {
+			text-decoration: none;
+			text-align: center ;
+			background: #A9A9A9;
+			color: #fff ;
+			border: 1px solid #A9A9A9;
+			font-weight:bold;
+			line-height: 1em ;
+			padding: 5px 40px 	;
+			}
+
+		
+#menu li a:hover, #menu li a:focus, #menu li a:active {
+			background: black;
+
+			}
+body #pa    
+          {
+            text-align:center;
+            font-size:50px;
+            font-weight:blod;
+            
+
+          }
+
+body  h1
+          {
+
+             
+             font-size:40px;
+           }
+
+body #po 
+            {
+  
+                font-size:20px;
+                font-weight:blod;
+                margin-top: 50px;
+            }
+body ul li 
+            {
+
+               font-size:20px;
+               font-weight:blod;
+            }
+body  #pp
+            {
+
+                font-size:20px;
+                font-weight:blod;
+                color: #0000FF
+            }
+#slider 
+            {
+               margin-left:450px;
+               margin-top:100px;
+               margin-bottom:100px;
+            }
+
+body #mo    
+            {
+               font-size:20px;
+               font-weight:blod;
+               margin-top: 50px;
+            }
+            body #moo    
+            {
+               font-size:20px;
+               font-weight:blod;
+               margin-top: 50px;
+               margin-left: 14px;
+
+     
+            }
+            body #mooo   
+            {
+               font-size:20px;
+               font-weight:blod;
+               margin-top: 50px;
+               margin-left: 14px;
+               margin-bottom: 25px;
+
+     
+            }
+#footerr 
+               { 
+                
+                height: 100px;
+               margin-top: 650px;
+                  
+                }
+                #foote 
+               { 
+                
+                height: 100px;
+               margin-top:90px;
+                  
+                }
+                #footerrr
+               { 
+                
+                height: 100px;
+               margin-top: 400px;
+                  
+                }
+
+                #mygallery img
+                {
+                        
+                        border : 8px ridge white;
+                        width: 400px;
+                }
+                article {
+                               border:3px outset gray;
+                            }
+
+                article h2 {
+                                       margin-left:90px;
+                                        color:gray;
+                                }
+
+                article p {
+                                       font-family: arial;
+                                       align:justify;
+                                      margin-left:90px;
+                                     margin-bottom:60px;
+                                }
+#aside { 
+//background: -o-linear-gradient(top, #012B55 0px, withe100%) transparent;
+border: 1px solid #000000;
+border-radius: 4px;
+box-shadow: 0px 0px 15px 5px #7D7E7D;
+float: right;
+font-size: 0.75em;
+margin-top:0px;
+margin: 30px auto 0px;
+min-height: 310px;
+padding: 0px 15px;
+width: 410px;
+}
+
+#aside h4 {
+//background: -o-linear-gradient(top, #012B55 0px, #012B55 100%) transparent;
+border-radius: 4px;
+color: black;
+font-size: 1.4em;
+font-weight: 400;
+line-height: 2.8;
+margin: 0px;
+padding: 0px;
+text-align: center;
+text-shadow: 3px 3px 3px #000000;
+}
+#concp
+{
+     
+     position : absolute;
+     left : 65%;
+     margin-left : -345px; 
+}
+#pos
+{
+     width: 790px;
+     position : absolute;
+     left : 40%;
+     
+}
+#entr
+{
+    
+     position : absolute;
+     left : 65%;
+     margin-left : -345px; 
+}
+
+
+
+
+@media screen and (max-width: 480px){
+	         #menu   ul     {
+              	               display: block;
+                                
+                            } 
+            
+            #menu   ul   li {
+              	               display: block;
+                                
+                           }
+
+              #menu   ul   li a
+                          {
+                               display: block;
+                                
+                           }
+          
+               
+
+            body           {
+            	             display: block;
+                           }
+            
+          
+             }
+
+
+
+ 
